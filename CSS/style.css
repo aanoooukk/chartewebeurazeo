@@ -25,10 +25,6 @@
 	content: '\e901';
 }
 
-.icon--menu:before {
-	content: '\e903';
-}
-
 .icon--cross:before {
 	content: '\e117';
 } 
@@ -337,4 +333,8 @@
 		-webkit-transform: translate3d(0, 0, 0);
 		transform: translate3d(0, 0, 0);
 	}
+}
+
+span h1 {
+    font-family: 'Acta Display ExtraBold'
 }
